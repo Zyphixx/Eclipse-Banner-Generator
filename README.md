@@ -64,4 +64,4 @@ banner-generator/
 
 ## 🙌 Credits
 
-Built by **BuzzMalx** — feel free to contribute or suggest features!
+Built by **BuzzMalx** — feel free to contribute or suggest features! Eclipse Everything 💚
